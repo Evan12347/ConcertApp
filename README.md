@@ -1,5 +1,5 @@
 # ConcertApp
-Dev Multi-Plateforme
-Nom : PAUTOT
-Prénom : Evan
-email : pautotevan@gmail.com
+Dev Multi-Plateforme<br>
+Nom : PAUTOT<br>
+Prénom : Evan<br>
+Email : pautotevan@gmail.com<br>
